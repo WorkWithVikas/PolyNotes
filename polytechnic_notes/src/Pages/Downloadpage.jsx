@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import { databases } from "../appwriteConfig"; // Import Appwrite configuration
+import { databases } from "../appwrite.Config"; // Import Appwrite configuration
 import { Download } from "lucide-react";
 import { useTheme } from "../ThemeContext";
-import NotesList from "../Component/NotesList"; // Adjust path if needed
+// import NotesList from "../Component/NotesList"; // Adjust path if needed
 
 
 function DownloadPage() {
