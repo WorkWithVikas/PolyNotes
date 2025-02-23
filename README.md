@@ -7,14 +7,13 @@ Welcome to PolyNotes, your one-stop platform for accessing well-organized and cu
 - 📖 **Course-wise Notes** – Access study materials categorized by subjects and courses.
 - 🔍 **Search & Filter** – Quickly find relevant topics with a powerful search feature.
 - 📂 **Downloadable PDFs** – Save and access notes offline.
-- 📢 **Community Support** – Engage in discussions and clarify doubts.
 - 📈 **Regular Updates** – Stay up-to-date with newly added materials.
 - 🎯 **Exam Preparation** – Get topic-specific notes to help in exam revisions.
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** Next.js ⚛️, Tailwind CSS 🎨
-- **Backend:** Node.js 🟢
+- **Frontend:** React , Tailwind CSS 🎨
+
 - **Database & Backend Services:** Appwrite 🏗️
 - **Hosting:** Vercel 🚀
 
@@ -31,10 +30,10 @@ Ensure you have the following installed:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repository/polynotes.git
+git clone https://github.com/WorkWithVikas/PolyNotes
 
 # Navigate to the project directory
-cd polynotes
+cd polyNotes
 
 # Install dependencies
 npm install
@@ -43,7 +42,7 @@ npm install
 npm run dev
 ```
 
-The app should now be running at [http://localhost:3000/](http://localhost:3000/) 🚀
+The app should now be running at [ https://poly-notes.vercel.app/ ] 🚀
 
 ## 🎯 Problem Statement
 
@@ -109,7 +108,7 @@ PolyNotes follows a streamlined workflow to ensure students can easily access an
 
 3. **Frontend & User Interaction**
 
-   - Users browse categorized notes via an intuitive UI built with Next.js and Tailwind CSS.
+   - Users browse categorized notes via an intuitive UI built with React.js and Tailwind CSS.
    - The search and filter feature helps quickly locate specific topics.
 
 4. **Download & Offline Access**
@@ -145,9 +144,9 @@ We welcome contributions and feedback from the community to enhance PolyNotes. Y
 
 Meet our contributors and maintainers:
 
-- **Contributor 1** - [GitHub](#)
-- **Contributor 2** - [GitHub](#)
-- **Contributor 3** - [GitHub](#)
+- **Contributor 1** - [ https://github.com/ROBINHUD13 ]
+- **Contributor 2** - [ https://github.com/WorkWithVikas ]
+- **Contributor 3** - [ https://github.com/Khushi6307 ]
 
 ## 📜 License
 
@@ -157,9 +156,8 @@ This project is licensed under the **MIT License** 📄.
 
 Have questions or suggestions? Reach out to us:
 
-- 📧 **Email:** [your-email@example.com](mailto\:your-email@example.com)
-- 🐦 **Twitter:** @yourhandle
-- 📌 **GitHub Issues:** Open an issue
+- 📧 **Email:** [mrvikas2510@gmail.com)
+
 
 ---
 
